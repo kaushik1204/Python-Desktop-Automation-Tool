@@ -93,7 +93,6 @@ Examples:
 
 ## 👤 **Author**
 
-Developed by **Your Name**
-GitHub: *your GitHub link*
+Developed by **Kaushik**
 
 ---
